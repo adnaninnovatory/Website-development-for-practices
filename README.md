@@ -9,3 +9,5 @@
 <!-- special-github-resume-updated: social links (2023-08-08T17:27:00) -->
 
 <!-- special-github-resume-updated: social links (2023-08-08T17:32:00) -->
+
+<!-- special-github-resume-updated: contact info (2023-08-09T13:25:00) -->
