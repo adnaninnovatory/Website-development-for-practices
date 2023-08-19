@@ -39,3 +39,5 @@
 <!-- special-github-resume-updated: technical skills (2023-08-18T15:06:00) -->
 
 <!-- special-github-resume-updated: project showcase (2023-08-19T14:14:00) -->
+
+<!-- special-github-resume-updated: bio details (2023-08-19T18:56:00) -->
