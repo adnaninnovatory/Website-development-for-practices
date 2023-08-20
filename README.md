@@ -43,3 +43,5 @@
 <!-- special-github-resume-updated: bio details (2023-08-19T18:56:00) -->
 
 <!-- special-github-resume-updated: social links (2023-08-20T18:28:00) -->
+
+<!-- special-github-resume-updated: contact info (2023-08-20T10:58:00) -->
