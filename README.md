@@ -41,3 +41,5 @@
 <!-- special-github-resume-updated: project showcase (2023-08-19T14:14:00) -->
 
 <!-- special-github-resume-updated: bio details (2023-08-19T18:56:00) -->
+
+<!-- special-github-resume-updated: social links (2023-08-20T18:28:00) -->
