@@ -45,3 +45,5 @@
 <!-- special-github-resume-updated: social links (2023-08-20T18:28:00) -->
 
 <!-- special-github-resume-updated: contact info (2023-08-20T10:58:00) -->
+
+<!-- special-github-resume-updated: certificates section (2023-08-20T13:17:00) -->
