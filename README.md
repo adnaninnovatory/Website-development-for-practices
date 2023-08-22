@@ -47,3 +47,5 @@
 <!-- special-github-resume-updated: contact info (2023-08-20T10:58:00) -->
 
 <!-- special-github-resume-updated: certificates section (2023-08-20T13:17:00) -->
+
+<!-- special-github-resume-updated: technical skills (2023-08-22T11:56:00) -->
