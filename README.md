@@ -61,3 +61,5 @@
 <!-- special-github-resume-updated: layout styling (2023-08-24T10:05:00) -->
 
 <!-- special-github-resume-updated: layout styling (2023-08-25T16:56:00) -->
+
+<!-- special-github-resume-updated: social links (2023-08-27T10:10:00) -->
