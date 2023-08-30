@@ -73,3 +73,5 @@
 <!-- special-github-resume-updated: social links (2023-08-29T11:06:00) -->
 
 <!-- special-github-resume-updated: layout styling (2023-08-30T18:09:00) -->
+
+<!-- special-github-resume-updated: technical skills (2023-08-30T16:47:00) -->
