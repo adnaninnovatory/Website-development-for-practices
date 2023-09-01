@@ -77,3 +77,5 @@
 <!-- special-github-resume-updated: technical skills (2023-08-30T16:47:00) -->
 
 <!-- special-github-resume-updated: technical skills (2023-09-01T10:05:00) -->
+
+<!-- special-github-resume-updated: certificates section (2023-09-01T20:32:00) -->
