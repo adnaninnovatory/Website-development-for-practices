@@ -91,3 +91,5 @@
 <!-- special-github-resume-updated: layout styling (2023-09-06T09:24:00) -->
 
 <!-- special-github-resume-updated: technical skills (2023-09-06T10:23:00) -->
+
+<!-- special-github-resume-updated: contact info (2023-09-07T15:34:00) -->
