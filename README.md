@@ -111,3 +111,5 @@
 <!-- special-github-resume-updated: layout styling (2023-09-11T15:47:00) -->
 
 <!-- special-github-resume-updated: bio details (2023-09-12T09:48:00) -->
+
+<!-- special-github-resume-updated: social links (2023-09-12T09:10:00) -->
