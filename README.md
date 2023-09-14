@@ -119,3 +119,5 @@
 <!-- special-github-resume-updated: layout styling (2023-09-13T17:32:00) -->
 
 <!-- special-github-resume-updated: layout styling (2023-09-13T18:26:00) -->
+
+<!-- special-github-resume-updated: certificates section (2023-09-14T18:28:00) -->
