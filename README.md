@@ -123,3 +123,5 @@
 <!-- special-github-resume-updated: certificates section (2023-09-14T18:28:00) -->
 
 <!-- special-github-resume-updated: contact info (2023-09-14T13:31:00) -->
+
+<!-- special-github-resume-updated: project showcase (2023-09-16T17:32:00) -->
