@@ -137,3 +137,5 @@
 <!-- special-github-resume-updated: bio details (2023-09-18T17:39:00) -->
 
 <!-- special-github-resume-updated: technical skills (2023-09-19T18:22:00) -->
+
+<!-- special-github-resume-updated: contact info (2023-09-21T17:51:00) -->
