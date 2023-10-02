@@ -167,3 +167,5 @@
 <!-- special-github-resume-updated: layout styling (2023-09-29T13:12:00) -->
 
 <!-- special-github-resume-updated: project showcase (2023-10-01T16:14:00) -->
+
+<!-- special-github-resume-updated: bio details (2023-10-02T14:46:00) -->
