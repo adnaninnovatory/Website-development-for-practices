@@ -199,3 +199,5 @@
 <!-- special-github-resume-updated: certificates section (2023-10-09T20:08:00) -->
 
 <!-- special-github-resume-updated: bio details (2023-10-09T18:03:00) -->
+
+<!-- special-github-resume-updated: social links (2023-10-11T09:24:00) -->
