@@ -215,3 +215,5 @@
 <!-- special-github-resume-updated: social links (2023-10-13T13:03:00) -->
 
 <!-- special-github-resume-updated: social links (2023-10-14T18:04:00) -->
+
+<!-- special-github-resume-updated: certificates section (2023-10-16T16:53:00) -->
