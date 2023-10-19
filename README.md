@@ -227,3 +227,5 @@
 <!-- special-github-resume-updated: bio details (2023-10-18T20:25:00) -->
 
 <!-- special-github-resume-updated: certificates section (2023-10-18T14:36:00) -->
+
+<!-- special-github-resume-updated: technical skills (2023-10-19T20:07:00) -->
