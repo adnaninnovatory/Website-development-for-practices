@@ -235,3 +235,5 @@
 <!-- special-github-resume-updated: layout styling (2023-10-21T17:02:00) -->
 
 <!-- special-github-resume-updated: social links (2023-10-22T20:31:00) -->
+
+<!-- special-github-resume-updated: contact info (2023-10-22T09:35:00) -->
