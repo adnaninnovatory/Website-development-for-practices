@@ -247,3 +247,5 @@
 <!-- special-github-resume-updated: layout styling (2023-10-26T16:40:00) -->
 
 <!-- special-github-resume-updated: layout styling (2023-10-26T09:18:00) -->
+
+<!-- special-github-resume-updated: project showcase (2023-10-27T17:24:00) -->
