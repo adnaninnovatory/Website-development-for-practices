@@ -257,3 +257,5 @@
 <!-- special-github-resume-updated: bio details (2023-10-28T13:34:00) -->
 
 <!-- special-github-resume-updated: project showcase (2023-10-29T17:37:00) -->
+
+<!-- special-github-resume-updated: certificates section (2023-10-31T16:52:00) -->
