@@ -273,3 +273,5 @@
 <!-- special-github-resume-updated: project showcase (2023-11-02T14:28:00) -->
 
 <!-- special-github-resume-updated: bio details (2023-11-02T15:02:00) -->
+
+<!-- special-github-resume-updated: technical skills (2023-11-03T16:37:00) -->
