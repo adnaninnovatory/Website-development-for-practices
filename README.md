@@ -289,3 +289,5 @@
 <!-- special-github-resume-updated: social links (2023-11-06T13:21:00) -->
 
 <!-- special-github-resume-updated: bio details (2023-11-07T16:01:00) -->
+
+<!-- special-github-resume-updated: technical skills (2023-11-07T09:15:00) -->
