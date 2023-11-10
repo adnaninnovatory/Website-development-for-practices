@@ -297,3 +297,5 @@
 <!-- special-github-resume-updated: contact info (2023-11-08T16:38:00) -->
 
 <!-- special-github-resume-updated: contact info (2023-11-08T19:21:00) -->
+
+<!-- special-github-resume-updated: layout styling (2023-11-10T20:17:00) -->
