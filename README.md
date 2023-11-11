@@ -301,3 +301,5 @@
 <!-- special-github-resume-updated: layout styling (2023-11-10T20:17:00) -->
 
 <!-- special-github-resume-updated: certificates section (2023-11-11T12:39:00) -->
+
+<!-- special-github-resume-updated: technical skills (2023-11-11T12:53:00) -->
