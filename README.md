@@ -307,3 +307,5 @@
 <!-- special-github-resume-updated: contact info (2023-11-11T12:36:00) -->
 
 <!-- special-github-resume-updated: contact info (2023-11-12T10:40:00) -->
+
+<!-- special-github-resume-updated: certificates section (2023-11-12T11:48:00) -->
