@@ -305,3 +305,5 @@
 <!-- special-github-resume-updated: technical skills (2023-11-11T12:53:00) -->
 
 <!-- special-github-resume-updated: contact info (2023-11-11T12:36:00) -->
+
+<!-- special-github-resume-updated: contact info (2023-11-12T10:40:00) -->
