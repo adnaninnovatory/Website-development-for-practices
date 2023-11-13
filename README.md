@@ -313,3 +313,5 @@
 <!-- special-github-resume-updated: project showcase (2023-11-13T17:47:00) -->
 
 <!-- special-github-resume-updated: social links (2023-11-13T15:45:00) -->
+
+<!-- special-github-resume-updated: bio details (2023-11-13T17:54:00) -->
