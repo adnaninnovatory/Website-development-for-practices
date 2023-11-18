@@ -331,3 +331,5 @@
 <!-- special-github-resume-updated: bio details (2023-11-18T13:00:00) -->
 
 <!-- special-github-resume-updated: contact info (2023-11-18T18:54:00) -->
+
+<!-- special-github-resume-updated: layout styling (2023-11-18T10:15:00) -->
