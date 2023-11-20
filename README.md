@@ -335,3 +335,5 @@
 <!-- special-github-resume-updated: layout styling (2023-11-18T10:15:00) -->
 
 <!-- special-github-resume-updated: technical skills (2023-11-20T18:41:00) -->
+
+<!-- special-github-resume-updated: certificates section (2023-11-20T18:28:00) -->
