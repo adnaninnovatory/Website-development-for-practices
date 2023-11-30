@@ -377,3 +377,5 @@
 <!-- special-github-resume-updated: layout styling (2023-11-30T09:32:00) -->
 
 <!-- special-github-resume-updated: technical skills (2023-11-30T15:20:00) -->
+
+<!-- special-github-resume-updated: social links (2023-11-30T11:56:00) -->
