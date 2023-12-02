@@ -385,3 +385,5 @@
 <!-- special-github-resume-updated: bio details (2023-12-01T10:10:00) -->
 
 <!-- special-github-resume-updated: bio details (2023-12-01T09:11:00) -->
+
+<!-- special-github-resume-updated: contact info (2023-12-02T09:50:00) -->
