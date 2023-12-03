@@ -387,3 +387,5 @@
 <!-- special-github-resume-updated: bio details (2023-12-01T09:11:00) -->
 
 <!-- special-github-resume-updated: contact info (2023-12-02T09:50:00) -->
+
+<!-- special-github-resume-updated: project showcase (2023-12-03T15:29:00) -->
