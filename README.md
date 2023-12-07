@@ -401,3 +401,5 @@
 <!-- special-github-resume-updated: social links (2023-12-06T18:20:00) -->
 
 <!-- special-github-resume-updated: social links (2023-12-07T20:33:00) -->
+
+<!-- special-github-resume-updated: layout styling (2023-12-07T18:39:00) -->
