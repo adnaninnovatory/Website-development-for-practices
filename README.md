@@ -407,3 +407,5 @@
 <!-- special-github-resume-updated: social links (2023-12-07T13:38:00) -->
 
 <!-- special-github-resume-updated: certificates section (2023-12-08T20:44:00) -->
+
+<!-- special-github-resume-updated: layout styling (2023-12-08T09:03:00) -->
