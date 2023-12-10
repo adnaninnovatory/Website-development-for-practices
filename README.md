@@ -411,3 +411,5 @@
 <!-- special-github-resume-updated: layout styling (2023-12-08T09:03:00) -->
 
 <!-- special-github-resume-updated: social links (2023-12-10T15:47:00) -->
+
+<!-- special-github-resume-updated: technical skills (2023-12-10T16:38:00) -->
