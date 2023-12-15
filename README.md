@@ -423,3 +423,5 @@
 <!-- special-github-resume-updated: layout styling (2023-12-13T12:00:00) -->
 
 <!-- special-github-resume-updated: project showcase (2023-12-13T14:29:00) -->
+
+<!-- special-github-resume-updated: contact info (2023-12-15T14:45:00) -->
