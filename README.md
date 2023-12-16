@@ -429,3 +429,5 @@
 <!-- special-github-resume-updated: contact info (2023-12-15T10:55:00) -->
 
 <!-- special-github-resume-updated: bio details (2023-12-16T13:38:00) -->
+
+<!-- special-github-resume-updated: certificates section (2023-12-16T10:18:00) -->
