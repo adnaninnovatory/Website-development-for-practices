@@ -431,3 +431,5 @@
 <!-- special-github-resume-updated: bio details (2023-12-16T13:38:00) -->
 
 <!-- special-github-resume-updated: certificates section (2023-12-16T10:18:00) -->
+
+<!-- special-github-resume-updated: layout styling (2023-12-16T09:44:00) -->
