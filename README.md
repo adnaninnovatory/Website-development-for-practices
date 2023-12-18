@@ -441,3 +441,5 @@
 <!-- special-github-resume-updated: layout styling (2023-12-18T19:01:00) -->
 
 <!-- special-github-resume-updated: bio details (2023-12-18T17:43:00) -->
+
+<!-- special-github-resume-updated: project showcase (2023-12-18T15:38:00) -->
