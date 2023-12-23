@@ -457,3 +457,5 @@
 <!-- special-github-resume-updated: social links (2023-12-22T19:08:00) -->
 
 <!-- special-github-resume-updated: layout styling (2023-12-23T16:57:00) -->
+
+<!-- special-github-resume-updated: bio details (2023-12-23T18:04:00) -->
