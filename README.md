@@ -485,3 +485,5 @@
 <!-- special-github-resume-updated: bio details (2024-01-01T12:19:00) -->
 
 <!-- special-github-resume-updated: certificates section (2024-01-01T10:55:00) -->
+
+<!-- special-github-resume-updated: social links (2024-01-02T19:51:00) -->
