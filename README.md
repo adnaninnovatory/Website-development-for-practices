@@ -493,3 +493,5 @@
 <!-- special-github-resume-updated: contact info (2024-01-02T12:38:00) -->
 
 <!-- special-github-resume-updated: technical skills (2024-01-04T18:34:00) -->
+
+<!-- special-github-resume-updated: certificates section (2024-01-04T13:49:00) -->
