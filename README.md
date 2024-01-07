@@ -505,3 +505,5 @@
 <!-- special-github-resume-updated: layout styling (2024-01-06T15:27:00) -->
 
 <!-- special-github-resume-updated: social links (2024-01-06T10:21:00) -->
+
+<!-- special-github-resume-updated: bio details (2024-01-07T14:07:00) -->
