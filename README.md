@@ -509,3 +509,5 @@
 <!-- special-github-resume-updated: bio details (2024-01-07T14:07:00) -->
 
 <!-- special-github-resume-updated: certificates section (2024-01-09T15:37:00) -->
+
+<!-- special-github-resume-updated: certificates section (2024-01-09T17:17:00) -->
