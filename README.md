@@ -557,3 +557,5 @@
 <!-- special-github-resume-updated: bio details (2024-01-19T15:06:00) -->
 
 <!-- special-github-resume-updated: layout styling (2024-01-20T14:11:00) -->
+
+<!-- special-github-resume-updated: project showcase (2024-01-21T17:31:00) -->
