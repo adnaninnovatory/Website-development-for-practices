@@ -575,3 +575,5 @@
 <!-- special-github-resume-updated: contact info (2024-01-26T09:40:00) -->
 
 <!-- special-github-resume-updated: social links (2024-01-27T11:13:00) -->
+
+<!-- special-github-resume-updated: project showcase (2024-01-29T16:18:00) -->
