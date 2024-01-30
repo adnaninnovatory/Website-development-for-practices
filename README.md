@@ -585,3 +585,5 @@
 <!-- special-github-resume-updated: contact info (2024-01-30T11:39:00) -->
 
 <!-- special-github-resume-updated: technical skills (2024-01-30T15:49:00) -->
+
+<!-- special-github-resume-updated: social links (2024-01-30T11:39:00) -->
