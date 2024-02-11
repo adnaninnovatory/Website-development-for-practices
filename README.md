@@ -623,3 +623,5 @@
 <!-- special-github-resume-updated: contact info (2024-02-10T14:42:00) -->
 
 <!-- special-github-resume-updated: certificates section (2024-02-10T11:38:00) -->
+
+<!-- special-github-resume-updated: bio details (2024-02-11T15:13:00) -->
