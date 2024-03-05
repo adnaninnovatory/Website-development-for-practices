@@ -699,3 +699,5 @@
 <!-- special-github-resume-updated: bio details (2024-03-04T16:24:00) -->
 
 <!-- special-github-resume-updated: social links (2024-03-05T13:47:00) -->
+
+<!-- special-github-resume-updated: layout styling (2024-03-05T14:24:00) -->
