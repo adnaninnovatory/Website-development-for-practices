@@ -703,3 +703,5 @@
 <!-- special-github-resume-updated: layout styling (2024-03-05T14:24:00) -->
 
 <!-- special-github-resume-updated: technical skills (2024-03-06T13:22:00) -->
+
+<!-- special-github-resume-updated: certificates section (2024-03-06T16:41:00) -->
