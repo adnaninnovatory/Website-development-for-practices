@@ -779,3 +779,5 @@
 <!-- special-github-resume-updated: social links (2024-03-29T17:37:00) -->
 
 <!-- special-github-resume-updated: social links (2024-03-30T19:02:00) -->
+
+<!-- special-github-resume-updated: bio details (2024-03-30T17:30:00) -->
