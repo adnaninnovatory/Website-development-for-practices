@@ -821,3 +821,5 @@
 <!-- special-github-resume-updated: contact info (2024-04-11T15:21:00) -->
 
 <!-- special-github-resume-updated: technical skills (2024-04-11T20:09:00) -->
+
+<!-- special-github-resume-updated: bio details (2024-04-11T12:18:00) -->
