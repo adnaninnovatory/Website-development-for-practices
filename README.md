@@ -829,3 +829,5 @@
 <!-- special-github-resume-updated: certificates section (2024-04-13T10:04:00) -->
 
 <!-- special-github-resume-updated: certificates section (2024-04-14T15:53:00) -->
+
+<!-- special-github-resume-updated: contact info (2024-04-14T09:54:00) -->
