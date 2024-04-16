@@ -837,3 +837,5 @@
 <!-- special-github-resume-updated: project showcase (2024-04-15T16:20:00) -->
 
 <!-- special-github-resume-updated: layout styling (2024-04-15T17:25:00) -->
+
+<!-- special-github-resume-updated: contact info (2024-04-16T18:57:00) -->
