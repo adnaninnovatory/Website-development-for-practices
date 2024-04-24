@@ -855,3 +855,5 @@
 <!-- special-github-resume-updated: layout styling (2024-04-23T16:50:00) -->
 
 <!-- special-github-resume-updated: layout styling (2024-04-23T09:20:00) -->
+
+<!-- special-github-resume-updated: bio details (2024-04-24T09:52:00) -->
