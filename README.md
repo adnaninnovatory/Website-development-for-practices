@@ -861,3 +861,5 @@
 <!-- special-github-resume-updated: project showcase (2024-04-25T19:10:00) -->
 
 <!-- special-github-resume-updated: contact info (2024-04-25T15:45:00) -->
+
+<!-- special-github-resume-updated: social links (2024-04-25T19:49:00) -->
