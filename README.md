@@ -889,3 +889,5 @@
 <!-- special-github-resume-updated: project showcase (2024-05-03T18:00:00) -->
 
 <!-- special-github-resume-updated: certificates section (2024-05-03T18:32:00) -->
+
+<!-- special-github-resume-updated: technical skills (2024-05-03T09:10:00) -->
