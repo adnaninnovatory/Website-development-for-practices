@@ -911,3 +911,5 @@
 <!-- special-github-resume-updated: certificates section (2024-05-08T16:00:00) -->
 
 <!-- special-github-resume-updated: social links (2024-05-08T11:28:00) -->
+
+<!-- special-github-resume-updated: certificates section (2024-05-09T13:56:00) -->
