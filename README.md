@@ -923,3 +923,5 @@
 <!-- special-github-resume-updated: social links (2024-05-10T12:10:00) -->
 
 <!-- special-github-resume-updated: certificates section (2024-05-11T16:17:00) -->
+
+<!-- special-github-resume-updated: certificates section (2024-05-13T18:50:00) -->
