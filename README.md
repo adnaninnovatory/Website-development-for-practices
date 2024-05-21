@@ -945,3 +945,5 @@
 <!-- special-github-resume-updated: social links (2024-05-20T19:49:00) -->
 
 <!-- special-github-resume-updated: bio details (2024-05-20T10:30:00) -->
+
+<!-- special-github-resume-updated: contact info (2024-05-21T15:24:00) -->
