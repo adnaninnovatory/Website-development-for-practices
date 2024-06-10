@@ -1001,3 +1001,5 @@
 <!-- special-github-resume-updated: social links (2024-06-09T18:30:00) -->
 
 <!-- special-github-resume-updated: project showcase (2024-06-09T12:35:00) -->
+
+<!-- special-github-resume-updated: bio details (2024-06-10T20:25:00) -->
