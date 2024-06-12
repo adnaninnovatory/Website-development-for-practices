@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Document</title>
+  st
+</head>
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  header {
+    width: 100%;
+    height: 110px;
+    background-color: #333333;
+    color: #999;
+    font-size: 13px;
+    display: flex;
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+
+  .contents {
+    display: flex;
+    align-items: center;
+    width: 70%;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 13px;
+  }
+
+  .contents>div {
+    margin: 0px 10px;
+  }
+
+  .border {
+    height: 20px;
+    background-color: #999;
+    width: 2px;
+  }
+
+  .icons {
+    width: 30%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .flw {
+    margin-top: -20px;
+    margin-right: 15px;
+  }
+
+  .icon {
+    margin-top: -5px;
+    padding: 10px 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .icon:hover {
+    color: red;
+  }
+
+  nav {
+    display: flex;
+    height: 180px;
+    width: 100%;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.3);
+    /* position: sticky; */
+    top: 0;
+    background-color: #fff;
+    z-index: 5;
+  }
+
+  .img {
+    width: 242px;
+    position: relative;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  nav img {
+    height: 98px;
+  }
+
+  ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  ul li {
+    list-style: none;
+    margin-left: 5px;
+  }
+
+  li a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    display: block;
+    padding: 40px 10px;
+    text-align: center;
+  }
+
+  li a:hover {
+    color: rgb(216, 0, 0);
+  }
+
+  main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 50px;
+
+  }
+
+  main img {
+    height: 200px;
+    margin-top: 100px;
+  }
+
+  .btn {
+    display: flex;
+    height: 200px;
+    width: 100%;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .btn span {
+    margin-left: 9px;
+  }
+
+  .btn button {
+    padding: 20px 40px;
+    font-size: 13px;
+    color: #ffffff;
+    transition: 0.8s;
+    background-color: rgb(255, 30, 0);
+    border: none;
+  }
+
+  .btn button:hover {
+    cursor: pointer;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.3);
+    background-color: #000000;
+  }
+
+  .last2 {
+    height: 800px;
+    width: 100%;
+    display: flex;
+    height: 570px;
+    width: 100%;
+    background: url('https://cdn.pixabay.com/photo/2016/03/25/02/10/abstract-1278068_640.jpg') no-repeat center center/cover;
+    margin-top: 20px;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+
+  .l1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 80px 0px;
+    padding-left: 98px;
+    width: 246px;
+  }
+
+  .l1 img {
+    height: 90px;
+    margin-left: -140px;
+
+  }
+
+  .lcontent {
+    margin-top: 40px;
+    width: 300px;
+    font-size: 12px;
+  }
+
+  .l11 {
+    margin: 15px 0;
+  }
+
+  .h {
+    margin-top: 30px;
+  }
+
+  .hh {
+    color: #fff;
+    font-size: 14px;
+    margin-top: 8px;
+  }
+
+  .l1,
+  .l2 span {
+    color: #999;
+    font-size: 13px;
+  }
+
+  .l2 {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin-left: 10px;
+  }
+
+  .l21 {
+    display: flex;
+    align-items: center;
+
+  }
+
+  .l2 h4 {
+    display: inline-block;
+  }
+
+  .l21 img {
+    height: 55px;
+    width: 55px;
+    padding: 12px 7px 0px 0px;
+  }
+
+  .h2 {
+    margin-top: 10px;
+    margin-bottom: 50px;
+  }
+
+  .l3 {
+    height: 600px;
+    display: flex;
+    width: 340px;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-left: 12px;
+  }
+
+  .l3 h4 {
+    margin-left: 40px;
+    display: inline-block;
+  }
+
+  .l3 h4,
+  .l2 h4,
+  .l4 h4 {
+    margin-top: 90px;
+    padding: 5px 0;
+    font-size: 21px;
+    border-bottom: 2px solid red;
+  }
+
+  .lbtn1 {
+    height: 400px;
+    width: 400px;
+    padding: 30px 40px;
+  }
+
+  .lbtn {
+    font-size: 12px;
+    padding: 6px 12px;
+    background-color: rgb(0, 0, 0);
+    border: none;
+    border: 1px solid #999;
+    color: #999;
+    box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.3);
+    position: relative;
+    overflow: hidden;
+    transition: 0.8s;
+    border-radius: 0px 40% 50% 0px;
+  }
+
+  .lbtn:hover {
+    cursor: pointer;
+    color: #fc0404;
+    border: 1px solid #fc0404;
+    font-size: 13px;
+  }
+
+  .l4 {
+    height: 600px;
+    margin-left: 9px;
+    width: 600px;
+  }
+
+  .l4 h4 {
+    display: inline-block;
+  }
+
+  .gallery {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    width: 230px;
+    gap: 10px;
+    margin-top: 50px;
+    grid-template-rows: repeat(2, auto);
+  }
+
+  .gallery img {
+    height: 70px;
+    width: 70px;
+    transition: 0.6s;
+  }
+
+  .gallery img:hover {
+    border: 1px solid red;
+  }
+
+  footer {
+    width: 100%;
+    height: 100px;
+    box-shadow: -4px -4px 2px rgba(0, 0, 0, 0.9);
+    background-color: #0f0e0e;
+    display: flex;
+    color: #999;
+    align-items: center;
+  }
+
+  footer ul {
+    margin-left: auto;
+    padding: 0 40px;
+  }
+
+  .foot {
+    margin-left: 60px;
+    font-size: 10px;
+    text-align: center;
+    height: 14px;
+  }
+
+  footer a {
+    color: #999;
+    font-size: 14px;
+  }
+</style>
+
+<body>
+  <header>
+    <div class="contents">
+      <div class="one">
+        <i class="fa-solid fa-house" style="color: #999;"></i>
+        <span>48 Hagart-Alexander Drive Mosigel 9024</span>
+      </div>
+      <div class="border">
+
+      </div>
+      <div class="two">
+        <i class="fa-solid fa-phone" style="color: #999;"></i>
+        <span>+64-22-1751612</span>
+      </div>
+      <div class="border">
+
+      </div>
+      <div class="three">
+        <i class="fa-solid fa-clock" style="color: #999;"></i>
+        <span>Mon-Sat: 8am - 6pm</span>
+      </div>
+      <div class="border">
+
+      </div>
+      <div class="four">
+        <span>NZ OWNED AND OPERATED</span>
+      </div>
+    </div>
+    <div class="icons">
+      <span class="flw">Follow US:</span>
+      <div class="border">
+
+      </div>
+      <span class="fb icon"><i class="fa-brands fa-facebook-f"></i></span>
+      <div class="border">
+
+      </div>
+      <span class="wa icon"><i class="fa-brands fa-whatsapp"></i></span>
+      <div class="border bb">
+
+      </div>
+      <span class="twitter icon bb"><i class="fa-brands fa-twitter"></i></span>
+      <div class="border bb">
+
+      </div>
+      <span class="pinterest icon bb"><i class="fa-brands fa-pinterest-p"></i></span>
+    </div>
+  </header>
+  <nav>
+    <div class="img"><img src="http://www.qcsotago.co.nz/assets/img/logo-small.png" alt=""></div>
+    <ul>
+      <li><a href="">HOME</a></li>
+      <li><a href="">ABOUT US</a></li>
+      <li><a href="">OUR SERVICES</a></li>
+      <li><a href="">CAREERS</a> </li>
+      <li><a href="">MEDIA CENTER</a> </li>
+      <li><a href="">DOWNLOADS</a> </li>
+      <li><a href="">GALLERY</a> </li>
+      <li><a href="">CONTACT US</a> </li>
+      <li><a href=""><i class="fa-solid fa-magnifying-glass" style="color: #000000;"></i></a></li>
+    </ul>
+  </nav>
+  <main>
+    <img src="http://www.qcsotago.co.nz/assets/img/gallery/galery1.jpg" alt="">
+    <img src="http://www.qcsotago.co.nz/assets/img/gallery/galery2.jpg" alt="">
+    <img src="http://www.qcsotago.co.nz/assets/img/gallery/galery3.jpg" alt="">
+    <img src="http://www.qcsotago.co.nz/assets/img/gallery/galery4.jpg" alt="">
+    <img src="http://www.qcsotago.co.nz/assets/img/gallery/galery5.jpg" alt="">
+    <img src="http://www.qcsotago.co.nz/assets/img/gallery/galery6.jpg" alt="">
+  </main>
+  <div class="btn">
+    <button><i class="fa-solid fa-gear" style="color: #ffffff;"></i><span>LOAD MORE</span></button>
+  </div>
+  <div class="last2">
+    <div class="l1">
+      <img src="./logo-small-removebg-preview.png" alt="">
+      <div class="lcontent">
+        <div class="onel l11">
+          <i class="fa-solid fa-location-dot" style="color: #ff0000;"></i>
+          <span style="margin-left: 15px;">48 Hagart-Alexander Drive Mosigel
+            <pre style="line-height: 25px;">       9024,NEW ZELAND</pre>
+          </span>
+        </div>
+        <div class="twol l11">
+          <i class="fa-solid fa-phone" style="color: #fc0404;"></i>
+          <span style="margin-left: 15px;">CALL US: +64-22-1751612</span>
+        </div>
+        <div class="threel l11">
+          <i class="fa-solid fa-envelope" style="color: #fc0404;"></i>
+          <span style="margin-left: 15px;">info@qcsotago.co.nz</span>
+        </div>
+        <div class="h hh">
+          <h4>Christchurch:</h4>
+          <div class="threel">
+            <i class="fa-solid fa-envelope" style="color: #fc0404;margin-top: 10px;"></i>
+            <span style="color: #999;font-size: 16px;margin-left: 15px;">smalik@qcsotago.co.nz</span>
+          </div>
+        </div>
+        <div class="h hh">
+          <h4>Dunedin:</h4>
+          <div class="threel">
+            <i class="fa-solid fa-envelope" style="color: #fc0404; margin-top: 10px;"></i>
+            <span style="color: #999;font-size: 16px;margin-left: 15px;">qcs.otago@gmail.com</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="l2">
+      <div class="h2 hh">
+        <h4 style="font-size: 14px;">LINKS</h4>
+      </div>
+      <div class="l21">
+        <img src="http://www.qcsotago.co.nz/assets/img/news/post-1-65x65.jpg" alt="">
+        <span>Visions,Missions & Values</span>
+      </div>
+      <div class="l21">
+        <img src="http://www.qcsotago.co.nz/assets/img/news/post-2-65x65.jpg" alt="">
+        <span>Our Clients</span>
+      </div>
+    </div>
+    <div class="l3">
+      <div class="h3 hh">
+        <h4 style="font-size: 14px;">TAGS</h4>
+      </div>
+      <table class="lbtn1">
+        <tr>
+          <td>
+            <button class="lbtn">Contact</button>
+          </td>
+          <td>
+            <button class="lbtn">Downloads</button>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <button class="lbtn">Careers</button>
+          </td>
+          <td>
+            <button class="lbtn">Gallery</button>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <button class="lbtn">Home</button>
+          </td>
+          <td>
+            <button class="lbtn">Media Center</button>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <button class="lbtn">Clients</button>
+          </td>
+          <td>
+            <button class="lbtn">Services</button>
+          </td>
+        </tr>
+      </table>
+    </div>
+    <div class="l4">
+      <div class="h4 hh">
+        <h4 style="font-size: 14px;">Gallery Photos</h4>
+      </div>
+      <div class="gallery">
+        <img src="http://www.qcsotago.co.nz/assets/img/instagram/instagram-1-83x83.jpg" alt="">
+        <img src="http://www.qcsotago.co.nz/assets/img/instagram/instagram-2-83x83.jpg" alt="">
+        <img src="http://www.qcsotago.co.nz/assets/img/instagram/instagram-3-83x83.jpg" alt="">
+        <img src="http://www.qcsotago.co.nz/assets/img/instagram/instagram-4-83x83.jpg" alt="">
+        <img src="http://www.qcsotago.co.nz/assets/img/instagram/instagram-6-83x83.jpg" alt="">
+        <img src="http://www.qcsotago.co.nz/assets/img/instagram/instagram-5-83x83.jpg" alt="">
+      </div>
+    </div>
+  </div>
+  <footer>
+    <span class="foot"> &#169 QCS Otago. All Rights Reserved.</span>
+    <ul>
+      <li> <a href="">HOME</a> </li>
+      <li> <a href="">MEDIA CENTER</a> </li>
+      <li> <a href="">DOWNLOADS</a> </li>
+      <li> <a href="">GALLERY</a> </li>
+      <li> <a href="">CONTACT</a> </li>
+    </ul>
+  </footer>
+  <script src="https://kit.fontawesome.com/9b197449cc.js" crossorigin="anonymous"></script>
+</body>
+
+</html>
