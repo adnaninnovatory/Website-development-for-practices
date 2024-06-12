@@ -1005,3 +1005,5 @@
 <!-- special-github-resume-updated: bio details (2024-06-10T20:25:00) -->
 
 <!-- special-github-resume-updated: social links (2024-06-12T16:44:00) -->
+
+<!-- special-github-resume-updated: certificates section (2024-06-12T13:06:00) -->
